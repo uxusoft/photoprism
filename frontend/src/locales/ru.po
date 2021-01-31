@@ -1106,7 +1106,7 @@ msgstr "Список"
 
 #: src/options/options.js:223
 msgid "Live"
-msgstr "Прямой эфир"
+msgstr "Live Photo"
 
 #: src/dialog/photo/details.vue:210
 msgid "Local Time"
